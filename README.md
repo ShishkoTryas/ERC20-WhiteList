@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# ERC-20 Token with Whitelist
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This repository contains an ERC-20 token project developed using Hardhat, a development environment for Ethereum. The project includes an ERC-20 token contract that implements a whitelist feature, allowing you to control which addresses can interact with the token.
